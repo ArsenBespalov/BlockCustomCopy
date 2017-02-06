@@ -2,10 +2,9 @@
   "manifest_version": 2,
   "default_locale": "ru",
   "name": "__MSG_APP_NAME__",
-  "version": "1.0.0",
+  "short_name": "truecopy",
+  "version": "1.0.1",
   "description": "__MSG_APP_DESCRIPTION__",
-  "display_in_launcher": false,
-  "display_in_new_tab_page": false,
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
@@ -13,7 +12,7 @@
   },
 
   "author": "Arsen Bespalov",
-  "homepage_url": "https://github.com/ArsenBespalov/BlockCustomCopy",
+  "homepage_url": "https://github.com/ArsenBespalov/TrueCopy",
 
   "content_scripts": [
     {
